@@ -21,7 +21,7 @@ Bootcamp-Senai/
 │   ├── feature_importance.py     # Importância das variáveis por falha
 │   ├── comparacao_modelos.py     # Gráficos comparativos entre modelos
 │   └── README.txt                # Observações e anotações locais
-|   └── requeriments.txt          # Lista de dependências Python para o projeto.
+|   └── requirements.txt          # Lista de dependências Python para o projeto.
 ```
 
 ---
